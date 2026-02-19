@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](https://github.com/)
 
-**Vectra** is a lightweight, distributed-ready vector search engine designed for high-throughput similarity search. It implements **Scalar Quantization (SQ8)** to reduce memory footprints by **75%** while maintaining **>98% recall** on standard benchmarks.
+**Vectra**, a lightweight, distributed-ready vector search engine designed for high-throughput similarity search. It implements **Scalar Quantization (SQ8)** to reduce memory footprints by **75%** while maintaining **>98% recall** on standard benchmarks.
 
 Built for **latency-critical** applications, Vectra leverages Python's `asyncio` event loop for non-blocking I/O and `NumPy` broadcasting for vectorized SIMD operations.
 
