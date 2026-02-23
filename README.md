@@ -42,7 +42,7 @@ Reference:
 2. Distance Metric
 We utilize the Inner Product as a proxy for Cosine Similarity, assuming pre-normalized vectors.
 $$ \text{sim}(u, v) \approx \frac{1}{\alpha^2} \sum_{i=1}^{d} q_u^{(i)} \cdot q_v^{(i)} $$
-This allows us to use integer arithmetic for the bulk of the computation, significantly reducing CPU cycle consumption.
+This allows us to use integer arithmetic for the bulk of the computation, significantly reducing the CPU cycle consumption.
 Reference:
 > [2] Johnson, J., Douze, M., & Jégou, H. (2019). Billion-scale similarity search with GPUs. IEEE Transactions on Big Data.
 > 
