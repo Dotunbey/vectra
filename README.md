@@ -11,7 +11,7 @@ Built for **latency-critical** applications, Vectra leverages Python's `asyncio`
 
 ---
 
-## 🏗 System Architecture
+## 🏗 System Architecture.
 
 Vectra decouples the **Ingestion Pipeline** (CPU-bound quantization) from the **Search Executive** (Memory-bound scanning) using an asynchronous lock mechanism.
 
