@@ -1,6 +1,6 @@
 .........................................................................................................
 # Vectra: High-Performance Async Vector Search Engine
-
+........................................................................................................
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](https://github.com/)
